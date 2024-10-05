@@ -1,0 +1,19 @@
+#并非是我原创，是来自b站上的一位up主做的，可惜我在写这段文字的时候那个视频似乎被下架了，我也忘了到底是谁做的。:(
+自定义
+预设 #[index]
+保 存
+清空配件配置
+默认配置
+预 设
+<size=250><color=#c00>(-.-).zZ\n<size=400>︻╦╤─</color></size>
+<size=200><color=#c00>/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿ ̿””</color></size>
+<size=250><color=#cc0>٩(ˊ〇ˋ)و\n<size=250>︻╦╤─</color></size>
+<size=200><color=#cc0>/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿ ̿””</color></size>
+<size=250><color=#0c0>(-^o^-)\n<size=400>︻╦╤─</color></size>
+<size=200><color=#0c0>/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿ ̿””</color></size>
+<size=250><color=#00c>(๑´ỏ`๑)\n<size=250>︻╦╤─</color></size>
+<size=200><color=#00c>/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿ ̿””</color></size>
+显示概要
+关闭概要
+[Attachment] 自定义
+按下[Key]键进行配件改装

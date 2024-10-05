@@ -1,0 +1,20 @@
+{
+	"Name": "梗体中文",
+	"Authors": [
+		"Wh1tegiveTeenage_SJK 白给少年施贱客"
+	],
+	"InterfaceLocales": [
+		"zh-CN",
+		"zh-Hans",
+		"zh"
+	],
+	"SystemLocales": [
+		"zh-CN",
+		"zh-SG",
+		"zh-Hans",
+		"zh"
+	],
+	"ForcedFontOrder": [
+		"NotoSansCJKsc-RegularDynamic"
+	]
+}

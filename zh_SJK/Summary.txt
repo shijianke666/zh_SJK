@@ -1,0 +1,19 @@
+<b>游戏结束！</b>
+至暗时刻
+基金会大胜利
+混沌大胜利
+陷入僵局
+<b>一切<color=#FF8E00>有</color><color=#FFFF7CFF>生</color><color=#0096FF>力</color><color=#008F1E>量</color>均已被抹除，Site-02完全处于<color=#F00>SCP</color>的控制之下。</b>
+<b>所有<color=#F00>SCP</color>与<color=#008F1E>混沌</color>都已被消灭，Site-02回到了<color=#0096FF>基金会</color>的手中。</b>
+<b>所有<color=#0096FF>基金会力量</color>都已被消除，Site-02的控制权落到了<color=#008F1E>混沌分裂者</color>的手中。</b>
+<b>Site-02基本得到控制，但也为此付出了一定代价。最终的赢家难下定论。</b>
+<b>[summary_d_escaped] 名<color=#FF8E00>DD</color>跑路</b>
+<b>[summary_s_escaped] 名<color=#FFFF7CFF>博士</color>跑路</b>
+<b>Alpha核弹共爆了 [summary_warhead_kills] 条人命。</b>
+<b>Alpha核弹并未在本回合中使用。</b>
+<b>此次行动共花费 [summary_round_minutes] 分 [summary_round_seconds] 秒。</b>
+<b>共消灭了 [summary_scp_terminated] 个SCP</b>
+<b>下回合游戏将在 [summary_next_round_countdown] 秒后开始。</b>
+<b><color=#F00>SCP</color>共计杀死了 [summary_scpfrags] 名人类。</b>
+火烈鸟获胜
+<b>火烈鸟是否鸣叫？</b>

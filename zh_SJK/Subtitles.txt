@@ -1,0 +1,28 @@
+MTF机动特遣部队<b><color=#0096FF>Epision-11<i>“九尾狐”</i></color></b>代号<i><b><color=#0096FF>[designation]</color></b></i>小队已进入设施。\n建议所有<color=#FF8E00>幸</color><color=#FFFF7CFF>存</color><color=#0096FF>人</color><color=#008F1E>员</color>继续执行标准疏散方案，\n直至<color=#0096FF>MTF</color>小队抵达您所处的位置。
+目前还有 [count] 个<color=#F00>SCP</color>项目等待被重新收容。
+目前还有 1 个<color=#F00>SCP</color>项目等待被重新收容。
+设施内仍然存在<color=#008F1E>混沌</color>或是<color=#FF8E00>DD</color>——SCP : GO 开始。
+已被成功消灭，死亡原因不明。
+已被 SCP-[scp] 消灭。
+已被接受杨永信的治疗。
+已湮灭在<b><color=#F00>ALPHA核弹</color></b>之下。
+已被<color=#FFFF7CFF>博士</color>重新收容。
+已被<color=#FF8E00>DD</color>重新收容。
+已被<color=#008F1E>混沌</color>重新收容。
+SCP-[scp]
+已被成功收容，收容方式不明。
+已被<color=#0096FF>[designation]</color>成功收容。
+已被轻收容净化系统清除。
+[max]分之[current]的<color=#F00>79快乐板</color>已被激活。
+<split>所有的<color=#F00>79快乐板</color>已被成功激活。
+重新收容<color=#F00>79</color>倒计时 3...2...1...
+设施已恢复正常运作模式。
+<color=#FF8E00>全体</color><color=#FFFF7CFF>人员</color>请注意。<color=#F00>轻收容区域的净化程序</color>将在倒计时<b>15分钟</b>后进行。所有生物必须立即转移，以避免被清除。
+危险，<color=#F00>轻收容区域的净化程序</color>将在倒计时<b>[time]</b>分钟后开始。
+危险，<color=#F00>轻收容区域的净化程序</color>将在倒计时<b><color=#F00>1分钟</color></b>后开始。
+危险，<color=#F00>轻收容区域的净化程序</color>将在倒计时<b><color=#F00>30秒</color></b>后开始。<split>所有检查点的门禁已永久开启，<b><color=#F00>请立即疏散撤离。</color></b>
+轻收容区域已被封锁即将准备净化清除。<split>现在开始清除所有生物。
+<b><color=#F00>ALPHA核弹头紧急引爆程序已启动。</color></b><split>地下部分设施将在倒计时<b>[time]</b>秒后被引爆。
+<color=green>引爆程序被取消</color>，正在重启系统。
+<b><color=#F00>引爆程序已重新启动</color></b>，倒计时<b>[time]</b>秒。
+已被棉花糖人消灭。
